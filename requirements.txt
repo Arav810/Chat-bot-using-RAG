@@ -1,0 +1,38 @@
+# --- Web Frameworks ---
+fastapi
+uvicorn
+streamlit
+requests
+
+# --- File Uploads ---
+python-multipart
+
+# --- Document Parsing ---
+pymupdf
+pypdf
+pdfplumber              # Optional fallback PDF parser
+python-docx
+python-pptx             # Optional: for future PPTX support
+pandas
+openpyxl                # For .xlsx Excel support
+xlrd                    # For legacy .xls Excel files
+
+# --- Embeddings & Vector DB ---
+sentence-transformers
+weaviate-client
+
+# --- LangChain Ecosystem ---
+langchain
+langchain-community
+langchain-core
+
+# --- DB / Persistence ---
+sqlalchemy              # For SQL-based chat history
+
+# --- Utils ---
+httpx                   # For async requests in LangChain
+python-dotenv           # For .env config
+tabulate                # Nicely format CSV/Excel chunk answers
+
+# --- Optional Dev Tools ---
+tqdm                    # Progress bars for parsing, chunking, etc.
