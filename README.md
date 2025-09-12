@@ -13,11 +13,3 @@ It combines a **backend RAG engine** with a **frontend Streamlit interface**, al
 - **requirements.txt** – Python dependencies.  
 - **.gitignore** – ignores virtual environments, secrets, and temporary files.
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Arav810/YourRepoName.git
-cd YourRepoName
