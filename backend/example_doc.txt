@@ -1,0 +1,14 @@
+Q: What is FXIS AI?
+A: FXIS AI is a company focused on building intelligent solutions using machine learning and artificial intelligence.
+
+Q: What kind of projects does FXIS AI work on?
+A: FXIS AI works on projects involving natural language processing, recommendation systems, and generative AI technologies.
+
+Q: Who is involved in the chatbot development?
+A: An intern is developing the chatbot using FastAPI, Streamlit, and Qdrant, with supervision from the team lead.
+
+Q: What technologies are being used?
+A: The stack includes LangChain, Groq LLM, HuggingFace embeddings, FastAPI, Streamlit, Qdrant, and Docker.
+
+Q: What is the purpose of the chatbot?
+A: The chatbot is meant to answer user queries based on internal documents using a Retrieval-Augmented Generation (RAG) pipeline.
